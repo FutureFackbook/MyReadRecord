@@ -5,3 +5,4 @@
 # MyReadRecord-2016.06
 - 《 HP Loadrunner Tutorial 11.0 》
 - 《LoadRunner使用手册(完整)》
+- 《图解HTTP》上野 宣（日）
