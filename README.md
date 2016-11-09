@@ -1,6 +1,6 @@
 # 我的阅读记录
 
-存放着我的阅读记录
+我的阅读记录
 
 ## Update History
 
@@ -8,12 +8,10 @@
 
 - 《王者速读法》齐藤英祝
 - 《玩转电商系统 深入剖析智慧电商平台》 一次没有意义的阅读
-
-**2016.10**
+- 《围城》 钱钟书
 
 目标：
 
-- 《围城》 钱钟书
 - 《番茄工作法》
 - 《如何阅读一本书》
 
@@ -29,3 +27,4 @@
 - 《软件测试的艺术 The Art of Software Testing》Glenford J.Myers、Tom Badgett、Corey Sandler
 - 《selenium2自动化测试实战 基于Python语言》 虫师
 
+...
